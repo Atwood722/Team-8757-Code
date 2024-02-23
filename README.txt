@@ -1,4 +1,4 @@
-This is FRC team 8756 code, we are using yagsl with mk4i's, neos, navx2, and can sparkmaxes. 
+This is FRC team 8756 code, we are using yagsl with mk4i's, neos, navx2, cancoders, and can sparkmaxes. 
 
 Current issues:
 	-No Turning, the robot will auto ajust its angle to feild orented forward, but we cant turn the robot using the controller
